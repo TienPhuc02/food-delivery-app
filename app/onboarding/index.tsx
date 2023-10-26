@@ -23,6 +23,7 @@ const OnBoarding = () => {
           Here You Can find a chef or dish for every taste and color.Enjoy!
         </Text>
       </View>
+      
       <TouchableOpacity
         onPress={handleClickButtonNext}
         className="max-w-[160px] max-h-[60px] mx-auto"
